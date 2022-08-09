@@ -1,16 +1,22 @@
-# getx_tutorials
+# Flutter GetX Rest API Get Method OpenSea
 
-A new Flutter project.
+Source Code for Flutter GetX Rest API.<br>
 
-## Getting Started
+## App Features
+- Fetch Data From Opensea API and show in listview.<br>
+<br>
 
-This project is a starting point for a Flutter application.
+![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/41961773/183560977-29440414-bdc1-4d9c-a476-859cb326a769.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For Step By Step Guide Follow Video Tutorials:
+- [Flutter Getx Rest API Tutorial - Fetching Data From Opensea Api](https://bit.ly/3d0N7Vx)
+
+## Links used in project:
+
+- [Getx Package](https://bit.ly/3SobWuW)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
